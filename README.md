@@ -1,15 +1,16 @@
-# Hi, I'm [Nancy]
+# Hi, I'm Nancy
 
 ## About Me
-- I'm currently learning [Computer PROGRAMMING].
-- I'm interested in [Web devoloping].
-- I'm looking to collaborate on [javascript.python].
+- I'm currently learning Computer PROGRAMMING.
+- I'm interested in Web devoloping.
+- I'm looking to collaborate on learning new project which are friedly.
 
 ## Skills I'm Building
 - Git and GitHub
-- [javascript]
+- typescript
 
 ## Current Projects
+-
 - [Github](link) — short description
 
 ## How to Reach Me
