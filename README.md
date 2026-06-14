@@ -10,7 +10,7 @@
 - typescript
 
 ## Current Projects
--
+-Git
 - [Github](link) — short description
 
 ## How to Reach Me
